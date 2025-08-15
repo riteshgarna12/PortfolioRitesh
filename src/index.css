@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@500;600;700;800&family=Tenor+Sans&display=swap');
+@import "tailwindcss";
+
+:root {
+  --first-color: #D65A67;
+  --first-color-alt: #B0424D;
+
+  --body-color: #FFF3F3;
+  --container-color: #FFFFFF;
+
+  --title-color: #5C1A1B;
+  --text-color: #733030;
+
+  --border-color: #E2B3B3;
+}
+
+.dark {
+  --first-color: #DFD0B8;
+  --first-color-alt: #948979;
+
+  --body-color: #222831;
+  --container-color: #393E46;
+
+  --title-color: #DFD0B8;
+  --text-color: #DFD0B8;
+
+  --border-color: #948979;
+}
