@@ -169,6 +169,7 @@ import projectImg1 from './assets/project-1.png';
 import projectImg2 from './assets/project-2.png';
 import projectImg3 from './assets/project-3.png';
 import projectImg4 from './assets/project-4.jpeg';
+import projectImg5 from './assets/project-5.png';
 import mongo from './assets/mongo.jpeg'
 import node from './assets/node.jpeg'
 export const portfolio = [
@@ -211,4 +212,13 @@ export const portfolio = [
     skills: [skillsImg1, skillsImg2, skillsImg3, skillsImg7],
     link: 'https://github.com/riteshgarna12/Ai-Assistant',
   },
+  {
+    id: 5,
+    img: projectImg5,
+    title: 'Spendlix',
+    description:
+      'Expense Management System',
+    skills: [skillsImg1, skillsImg2, skillsImg3, skillsImg4, skillsImg5,node,mongo],
+    link: 'https://github.com/riteshgarna12/Spendlix',
+  }
 ];
