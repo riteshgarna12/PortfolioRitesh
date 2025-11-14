@@ -180,7 +180,7 @@ export const portfolio = [
     description:
       'AI powered personalized interview preperation website',
     skills: [skillsImg1, skillsImg2, skillsImg3, skillsImg4, skillsImg5,node,mongo],
-    link: 'https://github.com/riteshgarna12/PrepMate-Ai1',
+    link: 'https://prepmate-ai-six.vercel.app/',
   },
 
   {
@@ -200,7 +200,7 @@ export const portfolio = [
     description:
       'GYM website',
     skills: [skillsImg1, skillsImg2, skillsImg3, skillsImg4, skillsImg5],
-    link: 'https://github.com/riteshgarna12/Gym-Management-System',
+    link: 'https://fitnove.vercel.app/',
   },
 
   {
